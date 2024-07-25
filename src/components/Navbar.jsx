@@ -22,7 +22,7 @@ const Navbar = () => {
         <ul>
           <li className="flex gap-4">
             <a
-              href="/"
+              href="https://github.com/MukeshKr55/PasswordManager-react"
               className="flex justify-center items-center gap-2 border md:px-3 md:py-1 px-2 py-0.5 bg-purple-100 hover:bg-gray-200 border-purple-400 rounded-full"
             >
               <div>
